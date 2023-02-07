@@ -41,4 +41,6 @@ public class MemberTest {
             System.out.println("-> member.team=" + member.getTeam());
         }
     }
+
+
 }
